@@ -41,14 +41,17 @@ export const Socials = [
     {
         name: "Discord",
         src: "/instagram.svg",
+        link: "https://discord.com/channels/1107228315196067910/1107228315737141299/"
     },
     {
-        name: "Facebook",
-        src: "/facebook.svg",
+        name: "Telegram",
+        src: "/tg.webp",
+        link: "https://t.me/SenseiDevx/"
     },
     {
         name: "Instagram",
         src: "/discord.svg",
+        link: "https://www.instagram.com/sensei_devx/"
     },
 ];
 
