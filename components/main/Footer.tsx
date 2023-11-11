@@ -14,8 +14,6 @@ const Footer = () => {
         <div className="w-full h-full bg-transparent text-gray-200 shadow-lg p-[15px] ">
             <div className="w-full flex flex-col items-center justify-center m-auto">
                 <div className="w-full h-full flex flex-row items-center justify-around flex-wrap">
-
-
                     <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
                         <div className="font-bold text-[16px]">Community</div>
                         <p className="flex flex-row items-center my-[15px] cursor-pointer">
@@ -57,14 +55,13 @@ const Footer = () => {
                             <span className="text-[15px] ml-[6px]">Learning about me</span>
                         </p>
                         <p className="flex flex-row items-center my-[15px] cursor-pointer">
-
-                            <span className="text-[15px] ml-[6px]">mifwebchain@gmail.com</span>
+                            <a href="mailto:kurmanbekovomurbek80@gmail.com" className="text-[15px] ml-[6px] ">kurmanbekovomurbek80@gmail.com</a>
                         </p>
                     </div>
                 </div>
 
                 <div className="mb-[20px] text-[15px] text-center">
-                    &copy; WebChain Dev 2023 Inc. All rights reserved
+                    &copy; Made By Omurbek 11.11.2023 Inc.
                 </div>
             </div>
         </div>
